@@ -1,0 +1,1173 @@
+[INFO ]2023-05-22 19:53:48.736 [main]LoggerLoad-Loading Config file
+[INFO ]2023-05-22 19:53:48.740 [main]LoggerLoad-Get Browser Type from Properties
+[INFO ]2023-05-22 19:53:53.047 [main]LoggerLoad-Intializingchromedriver
+[INFO ]2023-05-22 19:53:53.613 [main]LoggerLoad------DSAlgo Portal-----
+[INFO ]2023-05-22 19:53:54.278 [main]LoggerLoad------Click on get Started button----
+[INFO ]2023-05-22 19:53:55.110 [main]LoggerLoad-----User is onNumpyNinjaPage----
+[INFO ]2023-05-22 19:53:55.221 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:55.513 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:55.749 [main]LoggerLoad-User click on Arrays
+[INFO ]2023-05-22 19:53:56.427 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:53:56.464 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:56.614 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:56.663 [main]LoggerLoad-User click on Linked List
+[INFO ]2023-05-22 19:53:57.222 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:53:57.251 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:57.394 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:57.454 [main]LoggerLoad-User click on Stack
+[INFO ]2023-05-22 19:53:58.047 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:53:58.095 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:58.249 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:58.314 [main]LoggerLoad-User click on Queue
+[INFO ]2023-05-22 19:53:58.916 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:53:58.960 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:59.107 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:59.165 [main]LoggerLoad-User click on Tree
+[INFO ]2023-05-22 19:53:59.685 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:53:59.731 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:53:59.914 [main]LoggerLoad------User Clicks on Dropdown Before Sign in-----
+[INFO ]2023-05-22 19:53:59.987 [main]LoggerLoad-User click on Graph
+[INFO ]2023-05-22 19:54:00.604 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:00.641 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:00.896 [main]LoggerLoad-click Get Startedlink on  DataStructures 
+[INFO ]2023-05-22 19:54:01.479 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:01.552 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:01.595 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:01.934 [main]LoggerLoad-click Get Startedlink on Array 
+[INFO ]2023-05-22 19:54:02.392 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:02.439 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:02.477 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:02.672 [main]LoggerLoad-click Get Startedlink on LinkedList
+[INFO ]2023-05-22 19:54:03.147 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:03.208 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:03.240 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:03.464 [main]LoggerLoad-click Get Startedlink on stack
+[INFO ]2023-05-22 19:54:03.890 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:03.947 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:03.981 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:04.195 [main]LoggerLoad-click Get Startedlink on queue 
+[INFO ]2023-05-22 19:54:04.644 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:04.685 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:04.721 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:04.970 [main]LoggerLoad-click Get Startedlink on Tree 
+[INFO ]2023-05-22 19:54:05.449 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:05.528 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:05.563 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:05.750 [main]LoggerLoad-click Get Startedlink on Graph 
+[INFO ]2023-05-22 19:54:06.219 [main]LoggerLoad-User Clicks on Get Started link before Sign in
+[INFO ]2023-05-22 19:54:06.278 [main]LoggerLoad-The actual Message:You are not logged in
+[INFO ]2023-05-22 19:54:06.317 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:06.474 [main]LoggerLoad----User Clicks on Sign In link----
+[INFO ]2023-05-22 19:54:06.850 [main]LoggerLoad-----This is the Home Page------
+[INFO ]2023-05-22 19:54:06.994 [main]LoggerLoad-----User Clicks on Register link---
+[INFO ]2023-05-22 19:54:07.256 [main]LoggerLoad-User redirected to Registraion page 
+[INFO ]2023-05-22 19:54:07.262 [main]LoggerLoad-Title of current page is : Registration
+[INFO ]2023-05-22 19:54:07.301 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:07.458 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:07.543 [main]LoggerLoad-verify the warn message
+[WARN ]2023-05-22 19:54:07.592 [main]LoggerLoad-Please fill out this field.
+[INFO ]2023-05-22 19:54:07.611 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:07.771 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:08.033 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:08.150 [main]LoggerLoad-verify the warn message
+[WARN ]2023-05-22 19:54:08.221 [main]LoggerLoad-Please fill out this field.
+[INFO ]2023-05-22 19:54:08.257 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:08.426 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:08.663 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:08.879 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:09.000 [main]LoggerLoad-verify the warn message
+[WARN ]2023-05-22 19:54:09.049 [main]LoggerLoad-Please fill out this field.
+[INFO ]2023-05-22 19:54:09.081 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:09.291 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:09.583 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:09.837 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:10.082 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:10.307 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:10.359 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:10.398 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:10.537 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:10.692 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:10.813 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:10.986 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:11.320 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:11.396 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:11.426 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:11.604 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:11.912 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:12.146 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:12.314 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:12.554 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:12.594 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:12.631 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:12.786 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:12.989 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:13.242 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:13.456 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:13.728 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:13.760 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:13.792 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:15.512 [main]LoggerLoad-User Enter username as " ninjarico "and Password as " Team17" Confirm password as" Team17
+[INFO ]2023-05-22 19:54:15.512 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:15.665 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:15.795 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:15.925 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:16.171 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:16.200 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:16.216 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:16.418 [main]LoggerLoad-User Enter username as " ninjarico1 "and Password as " team172023" Confirm password as" team172023
+[INFO ]2023-05-22 19:54:16.419 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:16.552 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:16.690 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:16.824 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:17.024 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:17.053 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:17.067 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:17.263 [main]LoggerLoad-User Enter username as " Numpy "and Password as " 123456789" Confirm password as" 123456789
+[INFO ]2023-05-22 19:54:17.263 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:17.397 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:17.527 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:17.663 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:17.851 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:17.877 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:17.909 [main]LoggerLoad-User is on Register Page
+[INFO ]2023-05-22 19:54:18.115 [main]LoggerLoad-User Enter username as " numpy "and Password as " ninja5" Confirm password as" ninja5
+[INFO ]2023-05-22 19:54:18.116 [main]LoggerLoad-Enter User Name
+[INFO ]2023-05-22 19:54:18.266 [main]LoggerLoad-Enter password
+[INFO ]2023-05-22 19:54:18.404 [main]LoggerLoad-Enter confirm password
+[INFO ]2023-05-22 19:54:18.543 [main]LoggerLoad-Click Register Button
+[INFO ]2023-05-22 19:54:18.744 [main]LoggerLoad-verify the error message
+[WARN ]2023-05-22 19:54:18.772 [main]LoggerLoad-password_mismatch:The two password fields didn’t match.
+[INFO ]2023-05-22 19:54:18.791 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:18.969 [main]LoggerLoad-----User Clicks on Register Link-----
+[INFO ]2023-05-22 19:54:19.209 [main]LoggerLoad-----User redirected to Page----Registration
+[INFO ]2023-05-22 19:54:19.224 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:19.385 [main]LoggerLoad-User is Clicking login button with empty fields
+[INFO ]2023-05-22 19:54:19.521 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:19.667 [main]LoggerLoad---User Enters Only the User name--
+[INFO ]2023-05-22 19:54:19.780 [main]LoggerLoad-----User can seePlease fill out this field.-----
+[INFO ]2023-05-22 19:54:19.815 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:19.988 [main]LoggerLoad-User Enters Only Password
+[INFO ]2023-05-22 19:54:20.107 [main]LoggerLoad-User can seePlease fill out this field.
+[INFO ]2023-05-22 19:54:20.123 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:20.423 [main]LoggerLoad------User Clicks on Login button-----
+[INFO ]2023-05-22 19:54:20.714 [main]LoggerLoad-The actual Alert is:Invalid Username and Password
+[INFO ]2023-05-22 19:54:20.730 [main]LoggerLoad-------User is On Sign in page------
+[INFO ]2023-05-22 19:54:21.015 [main]LoggerLoad-User Enter username as " Ninjauser1 "and Password as " 
+Secret123#" 
+[INFO ]2023-05-22 19:54:22.471 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:22.762 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:23.806 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:23.832 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:54:23.836 [main]LoggerLoad-User Clicks on get started link
+[INFO ]2023-05-22 19:54:24.271 [main]LoggerLoad-User redirected toData Structures-IntroductionPage
+[INFO ]2023-05-22 19:54:24.286 [main]LoggerLoad-Title of current page is : Data Structures-Introduction
+[INFO ]2023-05-22 19:54:24.782 [main]LoggerLoad-User Clicks on Time complexity link
+[INFO ]2023-05-22 19:54:24.785 [main]LoggerLoad-User redirected toTime ComplexityPage
+[INFO ]2023-05-22 19:54:24.792 [main]LoggerLoad-Title of current page is : Time Complexity
+[INFO ]2023-05-22 19:54:26.103 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:54:26.104 [main]LoggerLoad-User redirected toAssessmentPage
+[INFO ]2023-05-22 19:54:26.111 [main]LoggerLoad-Title of current page is : Assessment
+[INFO ]2023-05-22 19:54:27.457 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:54:27.632 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:27.680 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:27.850 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:28.981 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:29.009 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:54:29.015 [main]LoggerLoad-User Clicks on Array get started link
+[INFO ]2023-05-22 19:54:29.501 [main]LoggerLoad-User is redirected to ArrayPage
+[INFO ]2023-05-22 19:54:29.508 [main]LoggerLoad-Page title is Array
+[INFO ]2023-05-22 19:54:29.542 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:29.854 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:30.810 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:31.051 [main]LoggerLoad-User is on the Array page after logged in
+[INFO ]2023-05-22 19:54:31.088 [main]LoggerLoad-User clicks on Arrays in Python in Array Page
+[INFO ]2023-05-22 19:54:31.968 [main]LoggerLoad-User is redirected to Arrays in PythonPage
+[INFO ]2023-05-22 19:54:31.990 [main]LoggerLoad-Page title is Arrays in Python
+[INFO ]2023-05-22 19:54:32.069 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:32.375 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:33.408 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:33.741 [main]LoggerLoad-User is on the Arrays in Python page after logged in
+[INFO ]2023-05-22 19:54:33.744 [main]LoggerLoad-User clicks Try Here on Arrays in Python page
+[INFO ]2023-05-22 19:54:34.202 [main]LoggerLoad-User clicks on Try Here Link
+[INFO ]2023-05-22 19:54:34.203 [main]LoggerLoad-User is redirected to a page having Try Editor with a run button to test
+[INFO ]2023-05-22 19:54:34.211 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:54:34.240 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:34.418 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:35.380 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:35.803 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:35.806 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:35.927 [main]LoggerLoad-Expected Result is DSAlgo
+[INFO ]2023-05-22 19:54:35.927 [main]LoggerLoad-User enters PythonCode as " print("DSAlgo");
+[INFO ]2023-05-22 19:54:36.101 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:36.190 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:54:36.270 [main]LoggerLoad-Displayed Result is DSAlgo
+[INFO ]2023-05-22 19:54:36.300 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:36.665 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:37.753 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:38.210 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:38.215 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:38.415 [main]LoggerLoad-Expected Result is NumpyNinja
+[INFO ]2023-05-22 19:54:38.415 [main]LoggerLoad-User enters PythonCode as " print("NumpyNinja
+[INFO ]2023-05-22 19:54:38.587 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:38.664 [main]LoggerLoad-User gets the error message in an Alert
+[INFO ]2023-05-22 19:54:38.679 [main]LoggerLoad-Displayed Error Message  is SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:54:38.695 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:39.012 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:40.042 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:40.357 [main]LoggerLoad-User is on the Array page after logged in
+[INFO ]2023-05-22 19:54:40.359 [main]LoggerLoad-User clicks Arrays Using List Link
+[INFO ]2023-05-22 19:54:40.880 [main]LoggerLoad-User is redirected to Arrays Using ListPage
+[INFO ]2023-05-22 19:54:40.889 [main]LoggerLoad-Page title is Arrays Using List
+[INFO ]2023-05-22 19:54:40.912 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:41.176 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:42.006 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:42.294 [main]LoggerLoad-User is on the Arrays Using List after logged in
+[INFO ]2023-05-22 19:54:42.295 [main]LoggerLoad-User clicks Try Here on Arrays Using List
+[INFO ]2023-05-22 19:54:42.784 [main]LoggerLoad-User clicks on Try Here Link
+[INFO ]2023-05-22 19:54:42.787 [main]LoggerLoad-User is redirected to a page having Try Editor with a run button to test
+[INFO ]2023-05-22 19:54:42.816 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:54:42.884 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:43.177 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:44.204 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:44.615 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:44.617 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:44.789 [main]LoggerLoad-Expected Result is ['apples', 'bananas', 'cucumbers', 'dates', 'strawberries', 'oranges']
+[INFO ]2023-05-22 19:54:44.790 [main]LoggerLoad-User enters PythonCode as " grocery = ["apples", "bananas", "cucumbers", "dates", "strawberries"]
+grocery.append("oranges")
+print (grocery);
+[INFO ]2023-05-22 19:54:45.151 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:45.240 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:54:45.355 [main]LoggerLoad-Displayed Result is ['apples', 'bananas', 'cucumbers', 'dates', 'strawberries', 'oranges']
+[INFO ]2023-05-22 19:54:45.383 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:45.558 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:46.387 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:46.823 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:46.828 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:46.998 [main]LoggerLoad-Expected Result is NameError: name 'apples' is not defined on line 3
+[INFO ]2023-05-22 19:54:46.999 [main]LoggerLoad-User enters PythonCode as " grocery = ["apples", "bananas", "cucumbers", "dates", "strawberries"]
+grocery.append("oranges")
+print[apples]
+[INFO ]2023-05-22 19:54:47.265 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:47.330 [main]LoggerLoad-User gets the error message in an Alert for Arrays Using List 
+[INFO ]2023-05-22 19:54:47.348 [main]LoggerLoad-Displayed Error Message  is NameError: name 'apples' is not defined on line 3
+[INFO ]2023-05-22 19:54:47.369 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:47.557 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:48.611 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:49.038 [main]LoggerLoad-User is on the Array page after logged in
+[INFO ]2023-05-22 19:54:49.043 [main]LoggerLoad-User clicks on Basic Operations In List link
+[INFO ]2023-05-22 19:54:49.776 [main]LoggerLoad-User is redirected to Basic Operations in ListsPage
+[INFO ]2023-05-22 19:54:49.786 [main]LoggerLoad-Page title is Basic Operations in Lists
+[INFO ]2023-05-22 19:54:49.810 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:50.003 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:51.094 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:51.504 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:51.505 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:51.620 [main]LoggerLoad-Expected Result is ['apples', 'banana', 'carrots', 'cucumbers', 'dates', 'strawberries']
+[INFO ]2023-05-22 19:54:51.620 [main]LoggerLoad-User enters PythonCode as " grocery = ["apples", "banana", "cucumbers", "dates","strawberries"]
+grocery.insert(2, "carrots")
+print (grocery);
+[INFO ]2023-05-22 19:54:51.932 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:51.994 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:54:52.062 [main]LoggerLoad-Displayed Result is ['apples', 'banana', 'carrots', 'cucumbers', 'dates', 'strawberries']
+[INFO ]2023-05-22 19:54:52.092 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:52.435 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:53.421 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:53.831 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:53.833 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:53.941 [main]LoggerLoad-Expected Result is NameError: name 'Walnuts' is not defined on line 2
+[INFO ]2023-05-22 19:54:53.941 [main]LoggerLoad-User enters PythonCode as " grocery = ["apples", "banana", "cucumbers", "dates","strawberries"]
+grocery.insert(10, Walnuts)
+print (grocery);
+[INFO ]2023-05-22 19:54:54.265 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:54.328 [main]LoggerLoad-User gets the error message in an Alert for Basic Operations in List 
+[INFO ]2023-05-22 19:54:54.339 [main]LoggerLoad-Displayed Error Message  is NameError: name 'Walnuts' is not defined on line 2
+[INFO ]2023-05-22 19:54:54.363 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:54.556 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:55.408 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:55.704 [main]LoggerLoad-User is on the Array page after logged in
+[INFO ]2023-05-22 19:54:55.705 [main]LoggerLoad-User clicks on Applications of Array Link
+[INFO ]2023-05-22 19:54:56.214 [main]LoggerLoad-User is redirected to Applications of ArrayPage
+[INFO ]2023-05-22 19:54:56.225 [main]LoggerLoad-Page title is Applications of Array
+[INFO ]2023-05-22 19:54:56.259 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:56.493 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:57.358 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:57.781 [main]LoggerLoad-User is on the Try Editor Page after logged in
+[INFO ]2023-05-22 19:54:57.784 [main]LoggerLoad-User is on Try Editor page
+[INFO ]2023-05-22 19:54:57.902 [main]LoggerLoad-Expected Result is [['Ann', 'Ben', 'Cathy', 'Daisy', 'Snow', 'Bob']]
+[INFO ]2023-05-22 19:54:57.902 [main]LoggerLoad-User enters PythonCode as " employee = ["Ann", "Ben", "Cathy", "Daisy", "Snow"]
+employee.append("Bob")
+print[employee]
+[INFO ]2023-05-22 19:54:58.213 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:54:58.298 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:54:58.366 [main]LoggerLoad-Displayed Result is [['Ann', 'Ben', 'Cathy', 'Daisy', 'Snow', 'Bob']]
+[INFO ]2023-05-22 19:54:58.382 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:54:58.574 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:54:59.281 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:54:59.510 [main]LoggerLoad-User is on the Arrays in Python page after logged in
+[INFO ]2023-05-22 19:54:59.512 [main]LoggerLoad-User clicks on Practice Questions link
+[INFO ]2023-05-22 19:54:59.840 [main]LoggerLoad-User is redirected to Practice QuestionsPage
+[INFO ]2023-05-22 19:54:59.851 [main]LoggerLoad-Page title is Practice Questions
+[INFO ]2023-05-22 19:54:59.879 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:00.139 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:00.847 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:01.072 [main]LoggerLoad-User is on the Practice page after logged in
+[INFO ]2023-05-22 19:55:01.073 [main]LoggerLoad-User clicks on Search the Array Link
+[INFO ]2023-05-22 19:55:01.438 [main]LoggerLoad-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+[INFO ]2023-05-22 19:55:01.446 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:55:01.465 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:01.629 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:02.345 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:02.347 [main]LoggerLoad-User is  on Question  page of Search the arrayafter logged in 
+[INFO ]2023-05-22 19:55:02.612 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:02.613 [main]LoggerLoad-User enters valid Python Code from Row Number 8
+[INFO ]2023-05-22 19:55:03.870 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 8 : Element Found
+[INFO ]2023-05-22 19:55:03.871 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:55:04.005 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:55:04.079 [main]LoggerLoad-Displayed Result is Element Found
+[INFO ]2023-05-22 19:55:04.109 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:04.352 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:05.226 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:05.228 [main]LoggerLoad-User is  on Question  page of Search the arrayafter logged in 
+[INFO ]2023-05-22 19:55:05.651 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:05.651 [main]LoggerLoad-User enters valid Python Code from Row Number 9
+[INFO ]2023-05-22 19:55:07.190 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 9 : submission success
+[INFO ]2023-05-22 19:55:07.192 [main]LoggerLoad-User clicks on Submit button
+[INFO ]2023-05-22 19:55:07.300 [main]LoggerLoad-User gets Success submission message
+[INFO ]2023-05-22 19:55:07.950 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-05-22 19:55:08.349 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:08.547 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:09.536 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:09.855 [main]LoggerLoad-User is on the Practice page after logged in
+[INFO ]2023-05-22 19:55:09.858 [main]LoggerLoad-User clicks on Max Consecutive Ones link
+[INFO ]2023-05-22 19:55:10.330 [main]LoggerLoad-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+[INFO ]2023-05-22 19:55:10.346 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:55:10.392 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:10.583 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:11.268 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:11.270 [main]LoggerLoad-User is  on Question  page of Max Consecutive Onesafter logged in 
+[INFO ]2023-05-22 19:55:11.688 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:11.688 [main]LoggerLoad-User enters valid Python Code from Row Number 10
+[INFO ]2023-05-22 19:55:13.435 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 10 : 2
+[INFO ]2023-05-22 19:55:13.437 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:55:13.550 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:55:13.621 [main]LoggerLoad-Displayed Result is 2
+[INFO ]2023-05-22 19:55:13.654 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:13.833 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:14.568 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:14.569 [main]LoggerLoad-User is  on Question  page of Max Consecutive Onesafter logged in 
+[INFO ]2023-05-22 19:55:14.975 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:14.975 [main]LoggerLoad-User enters valid Python Code from Row Number 11
+[INFO ]2023-05-22 19:55:16.706 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 11 : submission success
+[INFO ]2023-05-22 19:55:16.707 [main]LoggerLoad-User clicks on Submit button
+[INFO ]2023-05-22 19:55:16.792 [main]LoggerLoad-User gets Success submission message
+[INFO ]2023-05-22 19:55:17.428 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-05-22 19:55:17.818 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:18.001 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:18.806 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:18.987 [main]LoggerLoad-User is on the Practice page after logged in
+[INFO ]2023-05-22 19:55:18.988 [main]LoggerLoad-User clicks on Find Numbers with Even Number of Digits link
+[INFO ]2023-05-22 19:55:19.468 [main]LoggerLoad-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+[INFO ]2023-05-22 19:55:19.488 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:55:19.534 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:19.762 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:20.743 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:20.745 [main]LoggerLoad-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+[INFO ]2023-05-22 19:55:21.156 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:21.156 [main]LoggerLoad-User enters valid Python Code from Row Number 12
+[INFO ]2023-05-22 19:55:22.701 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 12 : 2
+[INFO ]2023-05-22 19:55:22.702 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:55:22.812 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:55:22.892 [main]LoggerLoad-Displayed Result is 2
+[INFO ]2023-05-22 19:55:22.916 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:23.096 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:23.955 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:23.956 [main]LoggerLoad-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+[INFO ]2023-05-22 19:55:24.304 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:24.304 [main]LoggerLoad-User enters valid Python Code from Row Number 13
+[INFO ]2023-05-22 19:55:25.563 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 13 : submission success
+[INFO ]2023-05-22 19:55:25.564 [main]LoggerLoad-User clicks on Submit button
+[INFO ]2023-05-22 19:55:25.629 [main]LoggerLoad-User gets Success submission message
+[INFO ]2023-05-22 19:55:26.289 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-05-22 19:55:26.657 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:26.837 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:27.637 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:27.980 [main]LoggerLoad-User is on the Practice page after logged in
+[INFO ]2023-05-22 19:55:27.983 [main]LoggerLoad-User clicks on Squares of a Sorted Array link
+[INFO ]2023-05-22 19:55:28.613 [main]LoggerLoad-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+[INFO ]2023-05-22 19:55:28.625 [main]LoggerLoad-Page Title is Assessment
+[INFO ]2023-05-22 19:55:28.660 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:28.845 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:29.880 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:29.881 [main]LoggerLoad-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+[INFO ]2023-05-22 19:55:30.187 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:30.187 [main]LoggerLoad-User enters valid Python Code from Row Number 14
+[INFO ]2023-05-22 19:55:31.547 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 14 : [4, 9, 9, 49, 121]
+[INFO ]2023-05-22 19:55:31.549 [main]LoggerLoad-User clicks on Run Button
+[INFO ]2023-05-22 19:55:31.655 [main]LoggerLoad-User gets the Result of entered Python Code
+[INFO ]2023-05-22 19:55:31.709 [main]LoggerLoad-Displayed Result is [4, 9, 9, 49, 121]
+[INFO ]2023-05-22 19:55:31.736 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:31.906 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:32.691 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:32.693 [main]LoggerLoad-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+[INFO ]2023-05-22 19:55:33.048 [main]LoggerLoad-User enters valid Python Code from Sheet Name  PythonCode
+[INFO ]2023-05-22 19:55:33.048 [main]LoggerLoad-User enters valid Python Code from Row Number 15
+[INFO ]2023-05-22 19:55:34.432 [main]LoggerLoad-Expected result from Excel sheetname PythonCode and 15 : submission success
+[INFO ]2023-05-22 19:55:34.433 [main]LoggerLoad-User clicks on Submit button
+[INFO ]2023-05-22 19:55:34.543 [main]LoggerLoad-User gets Success submission message
+[INFO ]2023-05-22 19:55:35.197 [main]LoggerLoad-Steps Failed , Taking Screenshot
+[INFO ]2023-05-22 19:55:35.540 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:35.716 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:36.535 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:36.545 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:55:36.549 [main]LoggerLoad-The User Select Linked List From drop down menu 
+[INFO ]2023-05-22 19:55:36.574 [main]LoggerLoad-ClickData Structureson drop down
+[INFO ]2023-05-22 19:55:36.664 [main]LoggerLoad-ClickLinked List From the drop down
+[INFO ]2023-05-22 19:55:37.075 [main]LoggerLoad-The User redirected to Linked ListPage
+[INFO ]2023-05-22 19:55:37.085 [main]LoggerLoad-Title of the Current Page is Linked List
+[INFO ]2023-05-22 19:55:37.120 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:37.317 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:38.169 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:38.491 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:55:38.527 [main]LoggerLoad-Click On IntroductionOn Linked List Page
+[INFO ]2023-05-22 19:55:39.280 [main]LoggerLoad-Title of the PageIntroduction
+[INFO ]2023-05-22 19:55:39.280 [main]LoggerLoad-User Clicks on Introduction link
+[INFO ]2023-05-22 19:55:39.282 [main]LoggerLoad-The User redirected to IntroductionPage
+[INFO ]2023-05-22 19:55:39.305 [main]LoggerLoad-Title of the Current Page is Introduction
+[INFO ]2023-05-22 19:55:39.376 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:39.562 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:40.422 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:40.681 [main]LoggerLoad-The user is on the Introduction after logged in
+[INFO ]2023-05-22 19:55:41.224 [main]LoggerLoad-User Clicked onTry Here Buttonintroduction
+[INFO ]2023-05-22 19:55:41.225 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:55:41.227 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:41.253 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:41.306 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:41.491 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:42.280 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:42.283 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:42.693 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:55:42.725 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:44.094 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:55:44.179 [main]LoggerLoad-The output is:LinkedList Introduction
+[INFO ]2023-05-22 19:55:44.213 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:44.425 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:45.478 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:45.482 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:45.908 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:55:45.935 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:47.385 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:55:47.387 [main]LoggerLoad-The Error Message is:SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:55:47.410 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:47.579 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:48.400 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:48.772 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:55:48.841 [main]LoggerLoad-ClickCreating Linked LIstOn Linked List Page
+[INFO ]2023-05-22 19:55:49.346 [main]LoggerLoad-Title of the PageCreating Linked LIst
+[INFO ]2023-05-22 19:55:49.347 [main]LoggerLoad-The User redirected to Creating Linked LIstPage
+[INFO ]2023-05-22 19:55:49.354 [main]LoggerLoad-Title of the Current Page is Creating Linked LIst
+[INFO ]2023-05-22 19:55:49.375 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:49.549 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:50.300 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:50.591 [main]LoggerLoad-The user is on the Creating a Linked List after logged in
+[INFO ]2023-05-22 19:55:51.080 [main]LoggerLoad-User Clicked onTry Here Buttoncreating linked list
+[INFO ]2023-05-22 19:55:51.080 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:55:51.083 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:51.106 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:51.182 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:51.401 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:52.335 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:52.336 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:52.654 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:55:52.664 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:53.874 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:55:53.958 [main]LoggerLoad-The output is:Creating a Linked List
+[INFO ]2023-05-22 19:55:53.986 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:54.166 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:55.076 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:55.078 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:55:55.534 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:55:55.566 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:55:56.951 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:55:56.955 [main]LoggerLoad-The Error Message is:SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:55:56.985 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:57.236 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:55:58.310 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:55:58.646 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:55:58.676 [main]LoggerLoad-ClickTypes of Linked ListOn Linked List Page
+[INFO ]2023-05-22 19:55:59.232 [main]LoggerLoad-Title of the PageTypes of Linked List
+[INFO ]2023-05-22 19:55:59.235 [main]LoggerLoad-The User redirected to Types of Linked ListPage
+[INFO ]2023-05-22 19:55:59.258 [main]LoggerLoad-Title of the Current Page is Types of Linked List
+[INFO ]2023-05-22 19:55:59.310 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:55:59.596 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:00.276 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:00.651 [main]LoggerLoad-The user is on the Types of Linked list after logged in
+[INFO ]2023-05-22 19:56:01.241 [main]LoggerLoad-User Clicked onTry Here Buttontypes of linked list
+[INFO ]2023-05-22 19:56:01.241 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:56:01.242 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:01.268 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:01.322 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:01.566 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:02.328 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:02.330 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:02.776 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:02.799 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:04.080 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:04.159 [main]LoggerLoad-The output is:Types of Linked List
+[INFO ]2023-05-22 19:56:04.185 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:04.372 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:05.215 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:05.219 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:05.670 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:05.695 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:07.242 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:07.246 [main]LoggerLoad-The Error Message is:SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:56:07.272 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:07.552 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:08.430 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:08.731 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:56:08.823 [main]LoggerLoad-ClickImplement Linked List in PythonOn Linked List Page
+[INFO ]2023-05-22 19:56:09.392 [main]LoggerLoad-Title of the PageImplement Linked List in Python
+[INFO ]2023-05-22 19:56:09.394 [main]LoggerLoad-The User redirected to Implement Linked List in PythonPage
+[INFO ]2023-05-22 19:56:09.400 [main]LoggerLoad-Title of the Current Page is Implement Linked List in Python
+[INFO ]2023-05-22 19:56:09.424 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:09.756 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:10.672 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:11.015 [main]LoggerLoad-The user is on the Implement Linked List in Python after logged in
+[INFO ]2023-05-22 19:56:11.395 [main]LoggerLoad-User Clicked onTry Here Buttonimplemented linked list in pythont
+[INFO ]2023-05-22 19:56:11.395 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:56:11.396 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:11.405 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:11.421 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:11.568 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:12.618 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:12.620 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:13.031 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:13.045 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:14.402 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:14.464 [main]LoggerLoad-The output is:Implement Linked List in Python
+[INFO ]2023-05-22 19:56:14.492 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:14.681 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:15.617 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:15.619 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:16.043 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:16.058 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:17.404 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:17.407 [main]LoggerLoad-The Error Message is:SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:56:17.432 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:17.591 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:18.377 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:18.685 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:56:18.730 [main]LoggerLoad-ClickTraversalOn Linked List Page
+[INFO ]2023-05-22 19:56:19.250 [main]LoggerLoad-Title of the PageTraversal
+[INFO ]2023-05-22 19:56:19.251 [main]LoggerLoad-The User redirected to TraversalPage
+[INFO ]2023-05-22 19:56:19.263 [main]LoggerLoad-Title of the Current Page is Traversal
+[INFO ]2023-05-22 19:56:19.293 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:19.478 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:20.388 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:20.712 [main]LoggerLoad-The user is on the Traversal after logged in
+[INFO ]2023-05-22 19:56:21.287 [main]LoggerLoad-User Clicked onTry Here Buttontraversal
+[INFO ]2023-05-22 19:56:21.287 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:56:21.289 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:21.316 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:21.364 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:21.549 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:22.412 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:22.414 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:22.835 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:22.857 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:24.363 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:24.440 [main]LoggerLoad-The output is:Traversal
+[INFO ]2023-05-22 19:56:24.467 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:24.631 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:25.469 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:25.471 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:25.875 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:25.899 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:27.201 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:27.203 [main]LoggerLoad-The Error Message is:NameError: name 'Traversal' is not defined on line 1
+[INFO ]2023-05-22 19:56:27.230 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:27.403 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:28.372 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:28.753 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:56:28.852 [main]LoggerLoad-ClickInsertionOn Linked List Page
+[INFO ]2023-05-22 19:56:29.474 [main]LoggerLoad-Title of the PageInsertion
+[INFO ]2023-05-22 19:56:29.475 [main]LoggerLoad-The User redirected to InsertionPage
+[INFO ]2023-05-22 19:56:29.482 [main]LoggerLoad-Title of the Current Page is Insertion
+[INFO ]2023-05-22 19:56:29.503 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:29.691 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:30.471 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:30.760 [main]LoggerLoad-The user is on the Insertion after logged in
+[INFO ]2023-05-22 19:56:31.282 [main]LoggerLoad-User Clicked onTry Here ButtonInsertion
+[INFO ]2023-05-22 19:56:31.283 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:56:31.285 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:31.314 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:31.365 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:31.634 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:32.343 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:32.344 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:32.785 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:32.812 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:34.354 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:34.424 [main]LoggerLoad-The output is:Insertion
+[INFO ]2023-05-22 19:56:34.440 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:34.732 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:35.838 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:35.839 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:36.179 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:36.188 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:37.443 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:37.446 [main]LoggerLoad-The Error Message is:NameError: name 'Insertion' is not defined on line 1
+[INFO ]2023-05-22 19:56:37.469 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:37.781 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:38.836 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:39.165 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:56:39.200 [main]LoggerLoad-ClickDeletionOn Linked List Page
+[INFO ]2023-05-22 19:56:39.699 [main]LoggerLoad-Title of the PageDeletion
+[INFO ]2023-05-22 19:56:39.700 [main]LoggerLoad-The User redirected to DeletionPage
+[INFO ]2023-05-22 19:56:39.708 [main]LoggerLoad-Title of the Current Page is Deletion
+[INFO ]2023-05-22 19:56:39.726 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:39.913 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:40.795 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:41.033 [main]LoggerLoad-The user is on the Deletion after logged in
+[INFO ]2023-05-22 19:56:41.571 [main]LoggerLoad-User Clicked onTry Here ButtonDeletion
+[INFO ]2023-05-22 19:56:41.572 [main]LoggerLoad-User Clicks on try it Editor
+[INFO ]2023-05-22 19:56:41.574 [main]LoggerLoad-User redirected to a page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:41.598 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:41.639 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:41.848 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:42.689 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:42.690 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:43.132 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:43.159 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:44.536 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:44.590 [main]LoggerLoad-The output is:Deletion
+[INFO ]2023-05-22 19:56:44.614 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:44.777 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:45.486 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:45.487 [main]LoggerLoad-The User is in page having an tryEditor with a Run button to test
+[INFO ]2023-05-22 19:56:45.933 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:56:45.956 [main]LoggerLoad-Title of current page is :Assessment
+[INFO ]2023-05-22 19:56:47.290 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:56:47.294 [main]LoggerLoad-The Error Message is:NameError: name 'Deletion' is not defined on line 1
+[INFO ]2023-05-22 19:56:47.317 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:47.562 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:48.505 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:48.842 [main]LoggerLoad-The user is on the Linked List page after logged in
+[INFO ]2023-05-22 19:56:48.877 [main]LoggerLoad-Click On IntroductionOn Linked List Page
+[INFO ]2023-05-22 19:56:49.280 [main]LoggerLoad-Title of the PageIntroduction
+[INFO ]2023-05-22 19:56:49.280 [main]LoggerLoad-User Clicks on Introduction link
+[INFO ]2023-05-22 19:56:49.306 [main]LoggerLoad-ClickPractice QuestionsOn Linked List Page
+[INFO ]2023-05-22 19:56:49.672 [main]LoggerLoad-Title of the PagePractice Questions
+[INFO ]2023-05-22 19:56:49.674 [main]LoggerLoad-The User redirected to Practice QuestionsPage
+[INFO ]2023-05-22 19:56:49.683 [main]LoggerLoad-Title of the Current Page is Practice Questions
+[INFO ]2023-05-22 19:56:49.722 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:50.081 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:51.049 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:51.076 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:56:51.589 [main]LoggerLoad-User clicks on Stack Get Started link
+[INFO ]2023-05-22 19:56:51.589 [main]LoggerLoad-The User clicks on the Stack Get Started button
+[INFO ]2023-05-22 19:56:51.598 [main]LoggerLoad-Title of current page is:Stack
+[INFO ]2023-05-22 19:56:51.628 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:51.937 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:52.982 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:53.264 [main]LoggerLoad-Stackpage
+[INFO ]2023-05-22 19:56:53.865 [main]LoggerLoad-User clicks on Operations in Stack link
+[INFO ]2023-05-22 19:56:53.871 [main]LoggerLoad-Title of current page is:Operations in Stack
+[INFO ]2023-05-22 19:56:53.899 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:54.129 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:55.033 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:55.335 [main]LoggerLoad-OperationsinStackpage
+[INFO ]2023-05-22 19:56:55.984 [main]LoggerLoad-User clicks On Tryhere button in stack page
+[INFO ]2023-05-22 19:56:56.393 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:56:56.459 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:56.807 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:56:57.890 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:56:58.303 [main]LoggerLoad-The User is in tryEditor page of Operations in Stack
+[INFO ]2023-05-22 19:56:58.549 [main]LoggerLoad-The User clicks the Run button
+[INFO ]2023-05-22 19:56:58.632 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:56:58.981 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:00.418 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:00.839 [main]LoggerLoad-The User is in tryEditor page of Operations in Stack
+[INFO ]2023-05-22 19:57:01.116 [main]LoggerLoad-The User clicks the Run button
+[INFO ]2023-05-22 19:57:01.119 [main]LoggerLoad-The Error Message is:NameError: name 'Operations' is not defined on line 1
+[INFO ]2023-05-22 19:57:01.141 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:01.438 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:02.471 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:02.749 [main]LoggerLoad-Stackpage
+[INFO ]2023-05-22 19:57:03.200 [main]LoggerLoad-User clicks on Implementation link on Stack page
+[INFO ]2023-05-22 19:57:03.200 [main]LoggerLoad-The User clicks on the Implementation link
+[INFO ]2023-05-22 19:57:03.651 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:57:03.704 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:03.868 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:04.773 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:05.012 [main]LoggerLoad-StackImplementationpage
+[INFO ]2023-05-22 19:57:05.469 [main]LoggerLoad-User clicks On Tryhere button in stack page
+[INFO ]2023-05-22 19:57:05.864 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:57:05.921 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:06.118 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:07.124 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:07.541 [main]LoggerLoad-The User is in tryEditor page of Stack Implementation
+[INFO ]2023-05-22 19:57:07.932 [main]LoggerLoad-The User clicks the Run button
+[INFO ]2023-05-22 19:57:08.036 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:08.377 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:09.469 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:09.665 [main]LoggerLoad-Stackpage
+[INFO ]2023-05-22 19:57:10.068 [main]LoggerLoad-User clicks On Applications link in stack page
+[INFO ]2023-05-22 19:57:10.068 [main]LoggerLoad-The User clicks on the Applications link
+[INFO ]2023-05-22 19:57:10.512 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:57:10.565 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:10.747 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:11.755 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:11.913 [main]LoggerLoad-Applicationstackpage
+[INFO ]2023-05-22 19:57:12.385 [main]LoggerLoad-User clicks On Tryhere button in stack page
+[INFO ]2023-05-22 19:57:12.773 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:57:12.819 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:13.075 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:14.097 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:14.942 [main]LoggerLoad-The User clicks the Run button
+[INFO ]2023-05-22 19:57:15.018 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:15.305 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:16.027 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:16.332 [main]LoggerLoad-Stackpage
+[INFO ]2023-05-22 19:57:16.634 [main]LoggerLoad-User clicks On Applications link in stack page
+[INFO ]2023-05-22 19:57:16.932 [main]LoggerLoad-User clicks On Practice Questions link in stack page
+[INFO ]2023-05-22 19:57:16.933 [main]LoggerLoad-The User clicks on the Practice Questions link
+[INFO ]2023-05-22 19:57:17.351 [main]LoggerLoad-Title of current page is:
+[INFO ]2023-05-22 19:57:17.430 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:17.749 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:18.489 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:18.497 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:57:18.881 [main]LoggerLoad-User Clicked on Queue get started
+[INFO ]2023-05-22 19:57:18.882 [main]LoggerLoad-The User redirected to QueuePage
+[INFO ]2023-05-22 19:57:18.892 [main]LoggerLoad-Title of the Current Page is Queue
+[INFO ]2023-05-22 19:57:18.917 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:19.179 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:20.261 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:20.588 [main]LoggerLoad-User is in queue page
+[INFO ]2023-05-22 19:57:21.077 [main]LoggerLoad-User Clicked on the Implement of Queue in Python
+[INFO ]2023-05-22 19:57:21.079 [main]LoggerLoad-The User redirected to Implementation of Queue in PythonPage
+[INFO ]2023-05-22 19:57:21.091 [main]LoggerLoad-Title of the Current Page is Implementation of Queue in Python
+[INFO ]2023-05-22 19:57:21.111 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:21.480 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:22.514 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:22.821 [main]LoggerLoad-User is in Implementation of Queue in Python Page 
+[INFO ]2023-05-22 19:57:23.315 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:57:23.320 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:57:23.335 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:57:23.370 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:23.532 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:24.270 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:24.639 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:57:24.955 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:57:25.005 [main]LoggerLoad-The output is:Implementation of Queue in Python
+[INFO ]2023-05-22 19:57:25.025 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:25.219 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:25.890 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:26.299 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:57:26.537 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:57:26.541 [main]LoggerLoad-The Error Message is:SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:57:26.562 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:26.740 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:27.459 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:27.789 [main]LoggerLoad-User is in queue page
+[INFO ]2023-05-22 19:57:28.315 [main]LoggerLoad-User Clicked on Implement Collection.deque
+[INFO ]2023-05-22 19:57:28.317 [main]LoggerLoad-The User redirected to Implementation using collections.dequePage
+[INFO ]2023-05-22 19:57:28.324 [main]LoggerLoad-Title of the Current Page is Implementation using collections.deque
+[INFO ]2023-05-22 19:57:28.345 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:28.523 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:29.548 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:29.834 [main]LoggerLoad-User is in Implementation using collections deque page
+[INFO ]2023-05-22 19:57:30.322 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:57:30.326 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:57:30.348 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:57:30.372 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:30.561 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:31.410 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:31.881 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:57:32.330 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:57:32.419 [main]LoggerLoad-The output is:Implementation of collections.deque in Python
+[INFO ]2023-05-22 19:57:32.448 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:32.656 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:33.597 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:33.849 [main]LoggerLoad-User is in queue page
+[INFO ]2023-05-22 19:57:34.380 [main]LoggerLoad-User Clicked on Implementation using Array
+[INFO ]2023-05-22 19:57:34.382 [main]LoggerLoad-The User redirected to Implementation using arrayPage
+[INFO ]2023-05-22 19:57:34.390 [main]LoggerLoad-Title of the Current Page is Implementation using array
+[INFO ]2023-05-22 19:57:34.416 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:34.600 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:35.563 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:36.333 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:57:36.335 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:57:36.362 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:57:36.407 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:36.580 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:37.366 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:37.838 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:57:38.090 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:57:38.179 [main]LoggerLoad-The output is:Implementation Using Array
+[INFO ]2023-05-22 19:57:38.205 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:38.436 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:39.466 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:39.796 [main]LoggerLoad-User is in queue page
+[INFO ]2023-05-22 19:57:40.229 [main]LoggerLoad-User Clicked on Queue Operations
+[INFO ]2023-05-22 19:57:40.231 [main]LoggerLoad-The User redirected to Queue OperationsPage
+[INFO ]2023-05-22 19:57:40.239 [main]LoggerLoad-Title of the Current Page is Queue Operations
+[INFO ]2023-05-22 19:57:40.262 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:40.451 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:41.263 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:42.158 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:57:42.160 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:57:42.174 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:57:42.197 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:42.380 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:43.101 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:43.483 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:57:43.680 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:57:43.787 [main]LoggerLoad-The output is:Queue Operations
+[INFO ]2023-05-22 19:57:43.814 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:43.978 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:44.677 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:45.106 [main]LoggerLoad-User Clicked on Practice Questions
+[INFO ]2023-05-22 19:57:45.107 [main]LoggerLoad-The User redirected to Practice QuestionsPage
+[INFO ]2023-05-22 19:57:45.115 [main]LoggerLoad-Title of the Current Page is Practice Questions
+[INFO ]2023-05-22 19:57:45.156 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:45.325 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:46.019 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:46.023 [main]LoggerLoad-User Click the tree Get Started Button
+[INFO ]2023-05-22 19:57:46.360 [main]LoggerLoad-Tittle of the Tree page:  Tree
+[INFO ]2023-05-22 19:57:46.390 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:46.601 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:47.267 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:47.559 [main]LoggerLoad-User Clicks on Overview of Tree link
+[INFO ]2023-05-22 19:57:47.977 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:48.152 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:48.876 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:49.112 [main]LoggerLoad-User Clicks on Try Here in a Tree page
+[INFO ]2023-05-22 19:57:49.112 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:57:49.636 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:49.836 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:50.652 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:50.996 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:57:51.114 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:57:52.287 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:57:52.341 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:52.536 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:53.332 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:53.708 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:57:53.889 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:57:55.045 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:57:55.062 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:55.210 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:55.984 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:56.224 [main]LoggerLoad-User Clicks on Terminologies link
+[INFO ]2023-05-22 19:57:56.620 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:56.834 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:57.616 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:57.805 [main]LoggerLoad-User Clicks on Try Here in a Terminologies page
+[INFO ]2023-05-22 19:57:57.805 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:57:58.311 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:57:58.522 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:57:59.307 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:57:59.644 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:57:59.763 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:00.918 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:00.980 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:01.149 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:01.837 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:02.182 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:02.294 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:03.449 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:03.474 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:03.636 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:04.319 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:04.544 [main]LoggerLoad-User Clicks on Types of tree link
+[INFO ]2023-05-22 19:58:04.937 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:05.123 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:05.910 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:06.154 [main]LoggerLoad-User Clicks on Try Here in a types of tree page
+[INFO ]2023-05-22 19:58:06.154 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:06.729 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:06.966 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:07.718 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:08.065 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:08.225 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:09.401 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:09.453 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:09.628 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:10.662 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:11.078 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:11.230 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:12.373 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:12.397 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:12.565 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:13.253 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:13.546 [main]LoggerLoad-User Clicks on  tree traversal link
+[INFO ]2023-05-22 19:58:14.021 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:14.195 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:14.959 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:15.282 [main]LoggerLoad-User Clicks on Try Here in a tree traversals page
+[INFO ]2023-05-22 19:58:15.282 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:15.994 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:16.231 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:17.098 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:17.463 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:17.621 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:18.776 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:18.836 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:19.020 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:19.871 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:20.248 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:20.352 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:21.468 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:21.481 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:21.656 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:22.669 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:22.993 [main]LoggerLoad-User Clicks on  traversal Illustration  link
+[INFO ]2023-05-22 19:58:23.697 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:23.962 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:24.734 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:25.052 [main]LoggerLoad-User Clicks on Try Here in a traversal illustration page
+[INFO ]2023-05-22 19:58:25.052 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:25.542 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:25.737 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:26.893 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:27.383 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:27.589 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:28.791 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:28.855 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:29.017 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:29.726 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:30.070 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:30.174 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:31.316 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:31.330 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:31.497 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:32.200 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:32.420 [main]LoggerLoad-User Clicks on  Binary Tree link
+[INFO ]2023-05-22 19:58:32.842 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:33.031 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:33.694 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:33.887 [main]LoggerLoad-User Clicks on Try Here in a binary tree page
+[INFO ]2023-05-22 19:58:33.887 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:34.340 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:34.505 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:35.244 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:35.577 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:35.702 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:36.869 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:36.909 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:37.068 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:37.780 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:38.209 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:38.359 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:39.542 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:39.557 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:39.757 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:40.504 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:40.731 [main]LoggerLoad-User Clicks on types of Binary tree link
+[INFO ]2023-05-22 19:58:41.381 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:41.588 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:42.258 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:42.492 [main]LoggerLoad-User Clicks on Try Here in a types of binary trees page
+[INFO ]2023-05-22 19:58:42.492 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:42.978 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:43.145 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:43.903 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:44.236 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:44.378 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:45.501 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:45.548 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:45.719 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:46.498 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:46.852 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:46.970 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:48.087 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:48.109 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:48.302 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:49.083 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:49.354 [main]LoggerLoad-User Clicks on Implementation of Python link
+[INFO ]2023-05-22 19:58:49.884 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:50.065 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:50.830 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:51.039 [main]LoggerLoad-User Clicks on Try Here in a implementation in python page
+[INFO ]2023-05-22 19:58:51.039 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:58:51.528 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:51.711 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:52.548 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:52.892 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:53.029 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:54.210 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:58:54.267 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:54.425 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:55.120 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:55.531 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:58:55.795 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:58:56.930 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:58:56.947 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:57.110 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:57.840 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:58.063 [main]LoggerLoad-User Clicks on Binary tree traversal link
+[INFO ]2023-05-22 19:58:58.575 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:58:58.766 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:58:59.714 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:58:59.961 [main]LoggerLoad-User Clicks on Try Here in a binary tree traversals page
+[INFO ]2023-05-22 19:58:59.961 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:59:00.523 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:00.704 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:01.727 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:02.151 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:02.440 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:03.631 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:59:03.692 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:03.864 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:04.601 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:05.018 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:05.215 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:06.335 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:59:06.353 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:06.516 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:07.471 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:07.714 [main]LoggerLoad-User Clicks on Implementation of Binary Trees link
+[INFO ]2023-05-22 19:59:08.193 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:08.425 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:09.139 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:09.376 [main]LoggerLoad-User Clicks on Try Here in a Implementation of binary trees page
+[INFO ]2023-05-22 19:59:09.376 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:59:09.992 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:10.173 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:11.005 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:11.432 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:11.707 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:12.879 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:59:12.948 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:13.119 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:13.967 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:14.381 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:14.499 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:15.670 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:59:15.686 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:15.853 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:16.727 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:16.952 [main]LoggerLoad-User Clicks on Applications of Binary Trees link
+[INFO ]2023-05-22 19:59:17.415 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:17.660 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:18.501 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:18.763 [main]LoggerLoad-User Clicks on Try Here in a Applications of binary trees page
+[INFO ]2023-05-22 19:59:18.763 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:59:19.308 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:19.524 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:20.265 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:20.617 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:20.736 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:21.944 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:59:21.993 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:22.159 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:23.058 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:23.467 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:23.697 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:24.882 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:59:24.897 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:25.058 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:25.998 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:26.249 [main]LoggerLoad-User Clicks on  Binary Search Trees link
+[INFO ]2023-05-22 19:59:27.170 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:27.421 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:28.562 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:28.776 [main]LoggerLoad-User Clicks on Try Here in a Binary Search Trees page
+[INFO ]2023-05-22 19:59:28.776 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:59:29.356 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:29.539 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:30.329 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:30.773 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:31.094 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:32.313 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:59:32.368 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:32.533 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:33.327 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:33.715 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:33.969 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:35.164 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:59:35.183 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:35.339 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:36.217 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:36.608 [main]LoggerLoad-User Clicks on Implementation of Binary Search Trees link
+[INFO ]2023-05-22 19:59:37.092 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:37.338 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:38.269 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:38.574 [main]LoggerLoad-User Clicks on Try Here in a Implementation of BST page
+[INFO ]2023-05-22 19:59:38.574 [main]LoggerLoad-User Clicks on Try Here button
+[INFO ]2023-05-22 19:59:39.180 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:39.399 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:40.266 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:40.626 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:40.748 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:41.926 [main]LoggerLoad-Output after Run Statement:Hello Numpy Ninjas
+[INFO ]2023-05-22 19:59:41.996 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:42.184 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:42.893 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:43.233 [main]LoggerLoad-User enter the valid print statement
+[INFO ]2023-05-22 19:59:43.355 [main]LoggerLoad-User Clicked Run button
+[INFO ]2023-05-22 19:59:44.511 [main]LoggerLoad-Actual result  :SyntaxError: bad input on line 1
+[INFO ]2023-05-22 19:59:44.529 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:44.687 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:45.467 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:45.711 [main]LoggerLoad-User Clicks on Overview of Tree link
+[INFO ]2023-05-22 19:59:45.995 [main]LoggerLoad-User Clicks the Practice Questions link
+[INFO ]2023-05-22 19:59:46.296 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:46.520 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:47.201 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:47.210 [main]LoggerLoad-Title of current page is NumpyNinja
+[INFO ]2023-05-22 19:59:47.510 [main]LoggerLoad-User Clicked on Queue get started
+[INFO ]2023-05-22 19:59:47.510 [main]LoggerLoad-User Clicked on Graph Get Started link
+[INFO ]2023-05-22 19:59:47.511 [main]LoggerLoad-The User redirected to GraphPage
+[INFO ]2023-05-22 19:59:47.521 [main]LoggerLoad-Title of the Current Page is Graph
+[INFO ]2023-05-22 19:59:47.544 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:47.721 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:48.431 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:48.618 [main]LoggerLoad-user is in graph page
+[INFO ]2023-05-22 19:59:48.618 [main]LoggerLoad-User is on the Graph Page
+[INFO ]2023-05-22 19:59:49.063 [main]LoggerLoad-User clicked on Graph link
+[INFO ]2023-05-22 19:59:49.065 [main]LoggerLoad-The User redirected to GraphPage
+[INFO ]2023-05-22 19:59:49.077 [main]LoggerLoad-Title of the Current Page is Graph
+[INFO ]2023-05-22 19:59:49.104 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:49.282 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:50.106 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:50.330 [main]LoggerLoad-user is in graphgraphpage
+[INFO ]2023-05-22 19:59:50.735 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:59:50.736 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:59:50.744 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:59:50.766 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:50.969 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:51.767 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:52.121 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:59:52.380 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:59:52.492 [main]LoggerLoad-The output is:Implementation of Graph
+[INFO ]2023-05-22 19:59:52.524 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:52.698 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:53.551 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:53.719 [main]LoggerLoad-user is in graph page
+[INFO ]2023-05-22 19:59:53.719 [main]LoggerLoad-User is on the Graph Page
+[INFO ]2023-05-22 19:59:54.299 [main]LoggerLoad-User clicked on Graph Representations link
+[INFO ]2023-05-22 19:59:54.301 [main]LoggerLoad-The User redirected to Graph RepresentationsPage
+[INFO ]2023-05-22 19:59:54.324 [main]LoggerLoad-Title of the Current Page is Graph Representations
+[INFO ]2023-05-22 19:59:54.363 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:54.517 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:55.194 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:55.410 [main]LoggerLoad-user is in graph representations page
+[INFO ]2023-05-22 19:59:55.903 [main]LoggerLoad-User Clicked on Try here
+[INFO ]2023-05-22 19:59:55.908 [main]LoggerLoad-The User redirected to AssessmentPage
+[INFO ]2023-05-22 19:59:55.926 [main]LoggerLoad-Title of the Current Page is Assessment
+[INFO ]2023-05-22 19:59:55.972 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:56.247 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:56.960 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:57.310 [main]LoggerLoad-User is in editor page
+[INFO ]2023-05-22 19:59:57.508 [main]LoggerLoad-User Clicked on Run button
+[INFO ]2023-05-22 19:59:57.589 [main]LoggerLoad-The output is:Implementation of Graph
+[INFO ]2023-05-22 19:59:57.613 [main]LoggerLoad-User Is on Login Page
+[INFO ]2023-05-22 19:59:57.808 [main]LoggerLoad-User Enters username and password
+[INFO ]2023-05-22 19:59:58.692 [main]LoggerLoad-User redirected to HomePage
+[INFO ]2023-05-22 19:59:58.874 [main]LoggerLoad-user is in graph representations page
+[INFO ]2023-05-22 19:59:59.166 [main]LoggerLoad-User clicked on Graph Practice Questions link
+[INFO ]2023-05-22 19:59:59.168 [main]LoggerLoad-The User redirected to Practice QuestionsPage
+[INFO ]2023-05-22 19:59:59.177 [main]LoggerLoad-Title of the Current Page is Practice Questions
+[INFO ]2023-05-22 19:59:59.186 [main]LoggerLoad-Closing Driver
